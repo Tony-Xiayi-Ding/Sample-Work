@@ -1,0 +1,79 @@
+These images were taken from fine needle biopsies of breast masses.
+They were created by Dr. William Wolberg at the University of
+Wisconsin Hospital, and appear here with his permission.  
+The images are all in GIF format.
+
+The individual diagnoses of these cases are as follows:
+
+Benign
+------
+92_751 
+92_5311
+92_5292
+92_5291
+92_5277
+92_5236
+92_4964
+92_4934
+92_4632
+92_4342
+
+Malignant
+---------
+92_7241
+92_6954
+92_6682
+92_6424
+92_6125
+92_5622
+91_9555
+91_6838
+91_6799
+91_5691
+
+-----------------------------
+
+If these are used in publication, please cite one or more of the
+following:
+
+@InProceedings{swm:93,
+  author = 	"W. N.  Street and W. H.  Wolberg and O. L.  Mangasarian",
+  title = 	"Nuclear feature extraction for breast tumor diagnosis",
+  booktitle = 	"IS\&T/SPIE 1993 International Symposium on Electronic
+		 Imaging: Science and Technology",
+  year = 	1993,
+  volume =      1905,
+  address = 	"San Jose, California",
+  pages = 	"861--870"
+}
+
+
+@Article{wsm:92,
+  author = 	 "W. H. Wolberg and W. N. Street and O. L. Mangasarian",
+  title = 	 "Breast Cytology Diagnosis Via Digital Image Analysis",
+  journal  =	 "Analytical and Quantitative Cytology and Histology",
+  year =	 1993,
+  volume =	 15,
+  number =	 6,
+  pages =	 "396--404",
+  month =	 "December"
+}
+
+@Article{wsm:94,
+  author = 	 "W. H. Wolberg and W. N. Street and O. L. Mangasarian",
+  title = 	 "Machine Learning Techniques to Diagnose Breast
+		  Cancer from Image-Processed Nuclear Features of Fine
+		  Needle Aspirates",
+  journal =	 "Cancer Letters",
+  year =	 1994,
+  volume =	 77,
+  pages =	 "163--171"
+}
+
+
+-------------------------------------
+
+If you have questions or comments, please contact:
+
+Nick Street
+street@cs.wisc.edu
