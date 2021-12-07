@@ -3,4 +3,5 @@ lab-1-Tony-Xiayi-Ding created by Tony Ding
 
 Data set used: Vertebral Column Data Set
 
-Keywords: kNN, Classification, Learning Curve Plotting, Distance Metrics
+# Keywords
+kNN, Classification, Learning Curve Plotting, Distance Metrics (Euclidean, Minkowski, Mahalanobisf), Model Error Rate Plotting
