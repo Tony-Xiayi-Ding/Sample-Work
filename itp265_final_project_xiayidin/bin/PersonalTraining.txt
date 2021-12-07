@@ -1,0 +1,5 @@
+Type,Name,Time,Instructor,Description
+PersonalTraining,Swimming,Sunday 10:00-11:00,Brian,Swimming: butterfly stroke
+PersonalTraining,Yoga,Thursday 9:00-10:00,Melody,Relaxing Yoga time to clear your mind and meditate
+PersonalTraining,Swimming,Thursday 17:00-18:00,Brian,Swimming: freestyle stroke
+PersonalTraining,Yoga,Tuesday 11:00-12:00,Melody,Relaxing Yoga time to clear your mind and meditate

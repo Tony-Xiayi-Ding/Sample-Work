@@ -1,0 +1,9 @@
+PaidMember/0/0/0
+PaidMember/johnma@126.com/Zijian Ma/19991215
+PaidMember/dingxiayi@163.com/Angela McKemy/123789
+PaidMember/zixinyi@ucb.edu/Xinyi Zi/168168
+GuestCustomer/archie@usc.edu/Archie Ruan/1287/What is your favourite subject?/CS
+GuestCustomer/tony@usc.edu/Tony Ding/Lakers/Where are you living?/Los Angeles
+PaidMember/johndoe@gmail.com/John Doe/1598/What is your favorite movie?/Inception
+PaidMember/xiayidin@usc.edu/Xiayi Ding/ITP265/who is your best friend?/John
+PaidMember/bruce@usc.edu/Burce Lee/xiaolong/Who is your favorite rapper?/Eminem

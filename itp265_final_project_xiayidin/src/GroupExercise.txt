@@ -1,0 +1,5 @@
+Type,Name,Time,Instructor,Difficulty Level,Class Size
+GroupExercise,Group Cycling,Thursday 12:00-13:00,Jennifer,Easy,7
+GroupExercise,Ballet,Monday 8:00-10:00,Daniel,Hard,10
+GroupExercise,Group Cycling,Saturday 11:00-12:00,Jennifer,Medium,8
+GroupExercise,Hip Hop Dancing,Friday 19:00-20:00,Daniel,Challenge,15

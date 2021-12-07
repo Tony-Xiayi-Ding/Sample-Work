@@ -1,0 +1,51 @@
+Progress of Tony Ding's ITP265 final project
+
+Thursday Afternoon 11/12/2020 — 2-hour coding session
+•	Reviewed my old UML and started coding
+•	Coded Person Class and FitnessClass Class, which are the two ultimate super Classes;
+o		FitnessClass is an abstract Class because there’s no need to instantiate that Class in my program. All the FitnessClasses should be either PersonalTraining or GroupExercise.
+•	Coded all the FitnessClass Inheritance hierarchy: PersonalTraining Class and GroupExercise Class, along with associated Enums (Difficulty and ClassType).
+•	Coded all the Person hierarchy: Member Class, PaidMember Class, GuestCustomer Class, as well as Instructor Class;
+•	Coded rentLocker Interface
+
+
+Thursday Evening 11/12/2020 — 3-hour coding session
+•	Updated Hand-Written UML Diagram
+	o	Added FitnessCenter Class,
+	o	Added UI Class
+	o	Added MemberLogin Class
+	o	Corrected the Classes that implement the rentLocker Interface
+			Corrected from GuestCustomer to PaidMember
+o		Changed some of the Classes’ names to make them more formal and easier to understand/predict what will the code do in that Class;
+•	Incorporated Peer feedback into UML Diagram
+o		Added another MemberLogin Class purely for reading and writing to member.txt file; 
+o		Added a FitnessCenter Class in UML that’s solely for reading and writing to FitnessClass files, which are PersonalTraining.txt and GroupExercise;
+			The files mentioned above haven’t been included in my code package yet because I haven’t started coding for reading and writing to files
+o		Decided to utilize Map for members in MemberLogin instead of ArrayList, which was my initial thought and was suggested during peer review
+•	I also found that it would probably be better to finish the CustomerMenu first and then start the coding for AdminMenu. Hence, I created am CustomerMenu Enum of Customers’ potential actions like login/create account/add a FitnessClass/drop a FitnessClass/view billing/quit. I might add more options to the menu, but right now I will stick to these. 
+
+
+Early Friday Morning 11/13/2020 --- 4-hour coding session
+•	Started coding of login/sign up/log out functionality and finished it
+•	Setting up Manager Login Menu as well as Customer Login Menu; 
+o		Incorporated some different, some similar functions; Manager will be able to add new classes to the file (write to PersonalTraining.txt) while customer can add themselves to the member list (write to memberInfo.txt)
+•	Finished all the methods required for a fully functional Customer Menu and Manager Menu. The only thing not working is writing to file for PersonalTraining Class in Manager Menu
+
+
+Friday Afternoon 11/13/2020 --- 1.5-hour coding session
+•	Went to Kamryn’s OH on Friday afternoon, and she offered an idea for writing to Personal Training File, which is to use an ArrayList instead of a Map
+•	Figured out how to write to Personal Training File correctly and addNewClass method is functional
+•	Adjusted my Menu options to reflect the newly added features/methods.
+
+
+Friday Evening 11/13/2020 --- 2-hour coding session
+•	Finishing touch of final project
+•	Fixed some minor bugs in my code
+•	Added a password feature for accessing Manager’s Menu
+•	Final Project coding part is 99% done.
+
+Sunday Night 11/15/2020 --- 0.5-hour coding session
+•	Fixed another error for reading the PersonalTraining.txt file
+•	Polished some of the wording in my code;
+•	Project finished; Started with Design Document and Personal Reflection
+
