@@ -22,7 +22,7 @@ o		Added another MemberLogin Class purely for reading and writing to member.txt 
 o		Added a FitnessCenter Class in UML that’s solely for reading and writing to FitnessClass files, which are PersonalTraining.txt and GroupExercise;
 			The files mentioned above haven’t been included in my code package yet because I haven’t started coding for reading and writing to files
 o		Decided to utilize Map for members in MemberLogin instead of ArrayList, which was my initial thought and was suggested during peer review
-•	I also found that it would probably be better to finish the CustomerMenu first and then start the coding for AdminMenu. Hence, I created am CustomerMenu Enum of Customers’ potential actions like login/create account/add a FitnessClass/drop a FitnessClass/view billing/quit. I might add more options to the menu, but right now I will stick to these. 
+•	I also found that it would probably be better to finish the CustomerMenu first and then start the coding for AdminMenu. Hence, I created a CustomerMenu Enum of Customers’ potential actions like login/create account/add a FitnessClass/drop a FitnessClass/view billing/quit. I might add more options to the menu, but right now I will stick to these. 
 
 
 Early Friday Morning 11/13/2020 --- 4-hour coding session
