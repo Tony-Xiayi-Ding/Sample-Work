@@ -49,3 +49,5 @@ Sunday Night 11/15/2020 --- 0.5-hour coding session
 •	Improved code readability;
 •	Project finished; Started with Design Document and Personal Reflection
 
+Project Finished.
+
