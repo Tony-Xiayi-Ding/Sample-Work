@@ -13,7 +13,7 @@ The files that named
 are all the projects/labs from the class DSCI-352 (Applied Machine Learning and Data Mining), completed in the Spring 2021 semester.
 
 
-//////////////////////////////
+--------------------
 
 
 The file that named 
