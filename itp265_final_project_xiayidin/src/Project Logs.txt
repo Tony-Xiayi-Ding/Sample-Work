@@ -1,4 +1,4 @@
-Project Logs of Tony Ding's ITP265 final project
+Project Logs of Tony Ding's ITP265 Final Project
 
 Thursday Afternoon 11/12/2020 — 2-hour coding session
 •	Reviewed my old UML and started coding
